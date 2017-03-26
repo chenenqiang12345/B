@@ -6,5 +6,6 @@ package com.example.administrator.myapplication;
 
 public class A {
     String a;
+    String b;
     String c;
 }
